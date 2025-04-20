@@ -1,2 +1,2 @@
 # Gold-Project
-Training Data on multiple models and choosing the best one for
+Training Data on multiple models and choosing the best one for Gold Recovery
